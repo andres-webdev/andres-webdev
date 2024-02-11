@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **React.js**
 
-👨‍💻 All of my projects are available at [Personal portfolio/](https://andresmfdev.github.io/personal-portfolio/)
+👨‍💻 All of my projects are available at ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,6 +59,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresmfdev&show_icons=true&locale=en&layout=compact" alt="andresmfdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresdmdev&show_icons=true&locale=en&layout=compact" alt="andresdmdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresmfdev&show_icons=true&locale=en" alt="andresmfdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresdmdev&show_icons=true&locale=en" alt="andresdmdev" /></p>
