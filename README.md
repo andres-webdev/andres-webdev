@@ -1,9 +1,9 @@
 <h1 align="center">👨‍💻 I'm Andrés Márquez</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 🔭 I’m currently working on **Personal Projects**
 
-🌱 I’m currently learning **React.js**
+🌱 I’m currently learning **Next.js**
 
 👨‍💻 All of my projects are available at ...
 
